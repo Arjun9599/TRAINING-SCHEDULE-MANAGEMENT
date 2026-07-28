@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10...3.30)
 project(TraingScheduleManagement 
 VERSION 1.0.1 
 DESCRIPTION "Training Schedule Management in C++" 
-HOMEPAGE_URL "https://github.com/kishanrajput23/Training-Schedule-Management"
+HOMEPAGE_URL "https://github.com/Arjun9599/TRAINING-SCHEDULE-MANAGEMENT"
 LANGUAGES CXX
 )
 
